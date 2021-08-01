@@ -1,4 +1,7 @@
-### Eswoed 👋
+### Esword 👋
+
+<h1 align="center"> Hey 👋🏽, I'm Chandan Reddy </h1>
+
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Ajian-jyj)]()
 
 
