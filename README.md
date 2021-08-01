@@ -2,7 +2,7 @@
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Ajian-jyj)]()
 <!--
 **Ajian-jyj/Ajian-jyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- ⚡ Python / go.
+ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
