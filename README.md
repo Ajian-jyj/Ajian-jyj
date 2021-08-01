@@ -2,13 +2,9 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Esword </h1>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Ajian-jyj)]()
-
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Ajian-jyj&show_icons=true&theme=gotham"></a>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Ajian-jyj&show_icons=true&theme=gotham"></a>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 <!--
