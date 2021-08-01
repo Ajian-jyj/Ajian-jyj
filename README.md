@@ -14,6 +14,7 @@
 ### About
 
 -  **Languages :** Python, C, JavaScript,go
+-  **Hobbies :** Articles & Music :headphones:
 
 ### 📫 How to reach me:
 - Email : jyj349559953@qq.cpm
