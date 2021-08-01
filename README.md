@@ -5,7 +5,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Ajian-jyj&show_icons=true&theme=gotham"></a>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 <!--
 **Ajian-jyj/Ajian-jyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
