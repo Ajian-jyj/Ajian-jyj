@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Esword </h1>
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+<img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/coding-freak.gif" width="100%" />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ajian-jyj&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajian-jyj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
