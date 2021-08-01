@@ -3,6 +3,9 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 <!--
 **Ajian-jyj/Ajian-jyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
