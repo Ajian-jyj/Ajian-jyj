@@ -2,8 +2,6 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Esword </h1>
 
-<img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/cad02a42c44e47bcaed6caf6a0e6344b.jpg" width="30%" />
-
 <img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/coding-freak.gif" width="100%" />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ajian-jyj&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
@@ -15,6 +13,8 @@
 
 -  **Languages :** Python, C, JavaScript,go,C++
 -  **Hobbies :** code & Articles & Music :headphones:
+
+<img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/cad02a42c44e47bcaed6caf6a0e6344b.jpg" width="30%" />
 
 ### 📫 How to reach me:
 - Email : jyj349559953@qq.cpm
