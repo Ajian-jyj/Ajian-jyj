@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Esword </h1>
 
-<img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/cad02a42c44e47bcaed6caf6a0e6344b.jpg" width="100%" />
+<img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/cad02a42c44e47bcaed6caf6a0e6344b.jpg" width="30%" />
 
 <img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/coding-freak.gif" width="100%" />
 
