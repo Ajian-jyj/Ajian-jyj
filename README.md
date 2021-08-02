@@ -14,8 +14,6 @@
 -  **Languages :** Python, C, JavaScript,go,C++
 -  **Hobbies :** code & Articles & Music :headphones:
 
-<img align="center" alt="Code gif" src="https://github.com/Ajian-jyj/Ajian-jyj/blob/main/cad02a42c44e47bcaed6caf6a0e6344b.jpg" width="30%" />
-
 ### 📫 How to reach me:
 - Email : jyj349559953@qq.cpm
 - bilibili : [@Esword真帅](https://space.bilibili.com/481314897)
