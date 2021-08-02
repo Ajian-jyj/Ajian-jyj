@@ -11,7 +11,7 @@
 
 ### About
 
--  **Languages :** Python, C, JavaScript,go
+-  **Languages :** Python, C, JavaScript,go,C++
 -  **Hobbies :** code & Articles & Music :headphones:
 
 ### 📫 How to reach me:
