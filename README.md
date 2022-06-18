@@ -11,7 +11,7 @@
 ### 📫 How to reach me:
 - Email : jyj349559953@qq.cpm
 - bilibili : [@Esword真帅](https://space.bilibili.com/481314897)
-- 公众号 : [Ajian_spiders](https://github.com/Ajian-jyj/Ajian-jyj/blob/main/data/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
+- 公众号 : [Spiders and AI](https://github.com/Ajian-jyj/Ajian-jyj/blob/main/data/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 <!--
 **Ajian-jyj/Ajian-jyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
